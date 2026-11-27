@@ -1,3 +1,5 @@
+[![M8ven Score](https://m8ven.aiapumia-sentinel-bot)](https://m8ven.aiapumia-sentinel-bot?s=readme)
+
 # APUMIA Sentinel Bot — Autonomous Telegram & Slack MCP/AI Compliance Guard
 
 * **Live Interactive Bot Simulator:** **https://apumiaaifund.github.io/apumia-sentinel-bot/**
