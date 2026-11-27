@@ -1,4 +1,4 @@
-[![M8ven Score](https://m8ven.aiapumia-sentinel-bot)](https://m8ven.aiapumia-sentinel-bot?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/apumiaaifund/apumia-sentinel-bot)](https://m8ven.ai/mcp/apumiaaifund/apumia-sentinel-bot?s=readme)
 
 # APUMIA Sentinel Bot — Autonomous Telegram & Slack MCP/AI Compliance Guard
 
